@@ -47,8 +47,21 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![image](https://github.com/Pranav-AJ/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/118904526/33580c1c-c5f6-4731-a945-3e6daad90ba0)
+
+![image](https://github.com/Pranav-AJ/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/118904526/e476bec8-b2f0-4b7b-b5c0-ff967dec8e39)
+
+![image](https://github.com/Pranav-AJ/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/118904526/5f729e43-4820-457b-b2f2-d06992ded66c)
+
+
+![image](https://github.com/Pranav-AJ/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/118904526/13513055-5184-49ac-b4dc-873cad207c5f)
+
+
+![image](https://github.com/Pranav-AJ/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/118904526/2649d68e-97a6-4703-8260-ce4273616c28)
+
+
+### Name: A.J.PRANAV
+### Register Number: 212222230107
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
